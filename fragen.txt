@@ -1,4 +1,5 @@
 Test:
+Es gibt bei jeder Frage genau 2 richtige Antworten!
 
 Frage 1:
 Was trifft auf einen automatisierten Test zu?
@@ -20,3 +21,48 @@ b) Unittest
 c) Penetration-Test
 d) UI-Test
 
+Frage 4:
+Welche Dateien braucht man nicht für einen Cucumber-Test?
+a) eine *.feature-Datei
+b) eine package.json-Datei
+c) ein makefile
+d) eine Java-Klasse mit der Step-Specification
+
+Frage 5:
+Für welche Art von Testfällen kann man Cucumber verwenden?
+a) UI-Tests
+b) Unit-Tests
+c) Service-Tests
+
+Frage 6:
+Welche Tools sollte man nicht für UI-Tests verwenden?
+a) JUnit
+b) Selenium
+c) Cucumber
+d) TestNg
+
+Frage 7:
+Wie kann man Selenium nicht verwenden?
+a) als Befehle in Java zur Steuerung von Websites
+b) zum Testen von Windows-Desktop-Anwendungen
+c) um Betriebssystemaufgaben zu automatisieren
+d) Als Plugin zur Browserautomation
+
+Frage 8:
+Was trifft auf Robot zu?
+a) es ist eine Art Bibliothek zum automatisierten Testen
+b) es kann Selenium aufrufen
+c) man kann mit Robot keine DSL verwenden
+
+Frage 9:
+Welches ist eine Schicht der Testpyramide:
+a) Integration-Tests
+b) Unit-Tests
+c) Service-Tests
+d) Lasttests
+
+Frage 10:
+Was spricht gegen End-To-End-Tests durch die UI der Anwendung?
+a) das ist langsam
+b) das ist instabil
+c) das führt zu schnelleren Builds
