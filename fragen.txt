@@ -1,0 +1,22 @@
+Test:
+
+Frage 1:
+Was trifft auf einen automatisierten Test zu?
+Ein automatisierter Test...
+a) ...ist meist ein ausführbares Programm
+b) ...muss lange vor der eigentlichen Entwicklung vollständig erstellt werden
+c) ...darf nicht von Entwicklern erstellt werden
+
+Frage 2:
+Was sind Gründe, warum man automatisiert testen will?
+a) Kosten sparen
+b) man will nicht manuell testen
+c) man will möglichst selten testen
+
+Frage 3:
+Was sind Arten von automatisierten Testfällen?
+a) Whiteboxtest
+b) Unittest
+c) Penetration-Test
+d) UI-Test
+
